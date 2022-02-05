@@ -1,4 +1,6 @@
-# Add "Open in VS Code" to Nemos Context menu
+## Add "Open in VS Code" to Nemos Context menu
+
+Copy and paste the following code to a terminal
 
 ```
 echo "[Nemo Action]
@@ -7,7 +9,7 @@ Comment=Opens VS Code in the current directory
 Exec=code %P
 Icon-Name=code
 Selection=none
-Extensions=any;
+Extensions=any
 Quote=double
-Dependencies=code;" > $HOME/.local/share/nemo/actions/open-vscode.nemo_action
+Dependencies=code" > $HOME/.local/share/nemo/actions/open-vscode.nemo_action
 ```
