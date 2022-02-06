@@ -1,0 +1,10 @@
+## Gnome Extensions that I use
+* [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
+* [Awesome Tiles](https://extensions.gnome.org/extension/4702/awesome-tiles/)
+* [Click to close overview](https://extensions.gnome.org/extension/3826/click-to-close-overview/)
+* [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+* [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
+* [No overview at start-up](https://extensions.gnome.org/extension/4099/no-overview/)
+* [Notification Banner Reloaded](https://extensions.gnome.org/extension/4651/notification-banner-reloaded/)
+* [User Themes](https://extensions.gnome.org/extension/19/user-themes/) 
+* [User Themes X](https://extensions.gnome.org/extension/3019/user-themes-x/)
