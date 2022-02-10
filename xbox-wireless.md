@@ -1,4 +1,4 @@
-##Linux driver for the Xbox One wireless dongle
+## Linux driver for the Xbox One wireless dongle
 
 xow is a Linux user mode driver for the Xbox One wireless dongle.
 It communicates with the dongle via libusb and provides joystick input through the uinput kernel module.
