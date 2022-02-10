@@ -5,6 +5,7 @@ It communicates with the dongle via libusb and provides joystick input through t
 The input mapping is based on existing kernel drivers like xpad.
 
 Installation Instructions
+
 Installation:
 ```
 dnf copr enable sentry/xow
